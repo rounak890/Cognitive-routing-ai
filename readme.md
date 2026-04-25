@@ -1,3 +1,11 @@
+Assignment by Rounak Gera
+
+Running Steps:-
+1. add your gemini api key in .env file
+2. install the dependencies
+3. run the files
+
+
 # Briefly explain your LangGraph node structure 
 
 I have intentionally kept the langgraph structure simple as it was something sequential and simple
