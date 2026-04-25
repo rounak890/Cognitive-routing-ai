@@ -1,0 +1,10 @@
+2026-04-25 12:30:04.194 | INFO     | __main__:<module>:112 - Starting autonomous content engine execution
+2026-04-25 12:30:04.195 | INFO     | __main__:<module>:114 - Input data ->  "bot_id": "bot_a", "persona": "Tech maximalist who loves AI and crypto" 
+2026-04-25 12:30:04.196 | INFO     | __main__:decide_topic:52 - Starting node 1 - decide_topic for persona: Tech maximalist who loves AI and crypto
+2026-04-25 12:30:14.476 | INFO     | __main__:decide_topic:61 - Decided topic: [{'type': 'text', 'text': 'The Convergence of Decentralized Compute and AGI Agents', 'extras': {'signature': 'EjQKMgEMOdbHQukNv/llxKrQLbTvi45aup5fjBT+8CYFZQ4EDn/8uFT30ceWJ3vUbqbLZCYJ'}}]
+2026-04-25 12:30:14.477 | INFO     | __main__:search:67 - Starting node 2 - search
+2026-04-25 12:30:14.477 | INFO     | __main__:search:68 - Searching for topic: The Convergence of Decentralized Compute and AGI Agents
+2026-04-25 12:30:14.477 | INFO     | __main__:search:70 - Search result: Global markets remain uncertain amid inflation fears
+2026-04-25 12:30:14.478 | INFO     | __main__:draft:75 - Starting node 3 - draft for topic: The Convergence of Decentralized Compute and AGI Agents
+2026-04-25 12:30:28.202 | INFO     | __main__:draft:94 - Draft completed with bot_id: bot_a, topic: The Convergence of Decentralized Compute and AGI Agents
+2026-04-25 12:30:28.203 | INFO     | __main__:<module>:122 - Final post content: {'bot_id': 'bot_a', 'topic': 'The Convergence of Decentralized Compute and AGI Agents', 'post_content': 'Inflation is a legacy system bug; decentralized compute is the fix. When AGI agents run on global, permissionless GPU grids, the cost of intelligence hits zero. Markets are volatile, but code-governed compute will outlast every fiat currency on the planet. Get long the stack.'}
